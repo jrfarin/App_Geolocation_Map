@@ -5,7 +5,7 @@
     version   = "1.0.1">
 
     <name>BCNActiva PG &amp; Map Geolocation</name>
-    <description>Phonegap Geolocation</description>
+    <description>Phonegap Geolocation with Map</description>
     <author href="http://cast-info.es" email="pep.farin@cast-info.es">Pep Farin</author>
 
     <content src="index.html" />
